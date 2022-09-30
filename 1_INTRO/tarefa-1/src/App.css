@@ -1,0 +1,11 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.App p{
+  font-size: 25px;
+  color: rgb(154, 152, 152);
+}
