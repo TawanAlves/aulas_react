@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "name": "Copo da Stanley",
+      "price": "120.12",
+      "id": 8
+    },
+    {
+      "name": "Black Erva ",
+      "price": "18.00",
+      "id": 9
+    },
+    {
+      "name": "Erva Kurupi",
+      "price": "16.00",
+      "id": 10
+    },
+    {
+      "name": "Guampa",
+      "price": "20.00",
+      "id": 11
+    },
+    {
+      "name": "Bomba Inox",
+      "price": "20.00",
+      "id": 12
+    },
+    {
+      "name": "Bomba V6",
+      "price": "60.00",
+      "id": 13
+    },
+    {
+      "name": "Garrafa Térmica 2L",
+      "price": "150.00",
+      "id": 14
+    },
+    {
+      "name": "Garrafa Térmica 1L",
+      "price": "80.00",
+      "id": 15
+    }
+  ]
+}
