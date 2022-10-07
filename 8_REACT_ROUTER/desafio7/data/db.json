@@ -1,0 +1,29 @@
+{
+  "products": [
+    {
+      "name": "Copo da Stanley",
+      "price": "120.12",
+      "id": 1
+    },
+    {
+      "name": "Black Erva ",
+      "price": "18.00",
+      "id": 2
+    },
+    {
+      "name": "Erva Kurupi",
+      "price": "16.00",
+      "id": 3
+    },
+    {
+      "name": "Guampa",
+      "price": "20.00",
+      "id": 4
+    },
+    {
+      "name": "Bomba Inox",
+      "price": "20.00",
+      "id": 5
+    }
+  ]
+}
